@@ -12,11 +12,6 @@
     </classes>
   </test>
   
-  <test name="Test_FF">
-	<parameter name="Browser" value="FF"></parameter>
-    <classes>
-      <class name="com.automate.withme.Runner.E2e_Runner"/>
-    </classes>
-  </test>
+  
   
 </suite> 
